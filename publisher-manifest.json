@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "14ce35b3d66a17c8853ca15f",
+  "owner": "kkhyjvctj",
+  "repo": "page-b5d7a069a8aa1e0dcdf8822c",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b5d7a069a8aa1e0dcdf8822c",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "04349443f7567204e17fbe20aea7b8e2eb782b28a66843368e27ca910edcaa4e",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐为您提供优质的机场VPN加速器服务，包括客户端下载和官网，支持多种套餐选择，让您轻松享受高速网络加速。",
+          "AI_DESCRIPTION": "机场推荐为您提供优质的机场VPN加速器服务，包括客户端下载和官网，支持多种套餐选择，让您轻松享受高速网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n  background-color: #FAF3E0;\n  color: #333333;\n  line-height: 1.7;\n  margin: 0;\n  padding: 0;\n}\n.main {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 20px;\n}\nh1 {\n  color: #2E7D32;\n  font-size: 2.5em;\n  text-align: center;\n  margin-bottom: 20px;\n}\nh2 {\n  color: #2E7D32;\n  font-size: 1.8em;\n  margin-top: 40px;\n  border-bottom: 2px solid #2E7D32;\n  padding-bottom: 10px;\n}\nh3 {\n  color: #2E7D32;\n  font-size: 1.4em;\n}\np {\n  font-size: 1em;\n  margin-bottom: 15px;\n}\n.plan {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 20px;\n  justify-content: center;\n}\n.plan-card {\n  flex: 1 1 300px;\n  background: white;\n  border: 2px solid #2E7D32;\n  border-radius: 8px;\n  padding: 20px;\n  text-align: center;\n  transition: transform 0.3s;\n}\n.plan-card:hover {\n  transform: translateY(-5px);\n}\n.plan-card.featured {\n  border-color: #2E7D32;\n  box-shadow: 0 4px 12px rgba(46, 125, 50, 0.2);\n}\n.plan-card h3 {\n  margin: 0 0 10px 0;\n  color: #2E7D32;\n}\nul {\n  list-style: none;\n  padding: 0;\n  margin: 15px 0;\n}\nul li {\n  margin: 8px 0;\n  padding-left: 20px;\n  position: relative;\n}\nul li:before {\n  content: \"✓\";\n  position: absolute;\n  left: 0;\n  color: #2E7D32;\n}\n.cta {\n  display: inline-block;\n  background: #2E7D32;\n  color: white;\n  padding: 12px 24px;\n  text-decoration: none;\n  border-radius: 4px;\n  margin: 10px 0;\n  transition: background 0.3s;\n}\n.cta:hover {\n  background: #1B5E20;\n}\n.table {\n  width: 100%;\n  border-collapse: collapse;\n  margin: 20px 0;\n}\n.table th, .table td {\n  padding: 15px;\n  text-align: left;\n  border-bottom: 1px solid #ddd;\n}\n.table th {\n  background-color: #E8F5E9;\n  color: #2E7D32;\n}\n.details {\n  margin-bottom: 15px;\n  border: 1px solid #E8F5E9;\n  border-radius: 6px;\n  overflow: hidden;\n}\n.summary {\n  font-weight: bold;\n  padding: 15px;\n  background: #E8F5E9;\n  cursor: pointer;\n  font-size: 1.1em;\n}\n.answer {\n  padding: 15px;\n  background: #F1F8E9;\n  display: none;\n}\n.details[open] .answer {\n  display: block;\n}\n.footer {\n  background: #2E7D32;\n  color: white;\n  padding: 30px 20px;\n  text-align: center;\n  margin-top: 40px;\n}\n@media (max-width: 768px) {\n  .plan {\n    flex-direction: column;\n  }\n  h1 {\n    font-size: 2em;\n  }\n  h2 {\n    font-size: 1.6em;\n  }\n}\n</style>\n\n\n<main class=\"main\">\n  <h1>机场推荐</h1>\n  <p>安全、快速的机场VPN梯子加速器</p>\n  <section>\n    <h2>为什么选择机场推荐</h2>\n    <p>机场推荐是专业的机场VPN加速器服务商，专注提供稳定高速的网络加速解决方案。我们精心筛选节点，支持客户端下载，帮助您轻松解锁网络限制，享受无忧浏览。</p>\n    <p>无论个人使用还是团队协作，我们都提供匹配的套餐方案，保障网络安全与性能。</p>\n  </section>\n  <section>\n    <h2>套餐对比</h2>\n    <div class=\"plan\">\n      <div class=\"plan-card\">\n        <h3>基础版</h3>\n        <p>¥15/月 | 按年付仅需 ¥150/年</p>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#\" class=\"cta\">立即订阅</a>\n      </div>\n      <div class=\"plan-card featured\">\n        <h3>旗舰版</h3>\n        <p>¥35/月 | 按年付仅需 ¥350/年</p>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"cta\">立即订阅</a>\n      </div>\n      <div class=\"plan-card\">\n        <h3>团队版</h3>\n        <p>¥85/月 | 按年付仅需 ¥850/年</p>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#\" class=\"cta\">立即订阅</a>\n      </div>\n    </div>\n  </section>\n  <section>\n    <h2>使用指南</h2>\n    <h3>选择套餐</h3>\n    <p>根据流量需求、设备数量和使用场景选择套餐，基础版适合日常使用，旗舰版提供游戏加速，团队版适合企业定制。</p>\n    <h3>下载客户端</h3>\n    <p>访问官网下载中心，选择适合您的操作系统下载最新客户端，安装后使用订阅链接连接节点。</p>\n    <h3>连接与加速</h3>\n    <p>完成订阅后，在客户端中添加节点，享受IPLC专线带来的低延迟高速体验。</p>\n  </section>\n  <section>\n    <h2>常见问题 FAQ</h2>\n    <div class=\"details\">\n      <details>\n        <summary>什么是机场？</summary>\n        <p class=\"answer\">机场是网络代理服务的专业称呼，通常指支持V2Ray/Xray协议的服务器节点集合，用于加速网络访问、翻墙和解锁内容。</p>\n      </details>\n    </div>\n    <div class=\"details\">\n      <details>\n        <summary>如何选择套餐？</summary>\n        <p class=\"answer\">根据您的流量使用量和需求选择：基础版适合轻度使用，旗舰版适合重度流量和游戏加速，团队版适合需要高带宽和专属服务的企业用户。</p>\n      </details>\n    </div>\n    <div class=\"details\">\n      <details>\n        <summary>客户端如何下载？</summary>\n        <p class=\"answer\">在官网下载页面根据您的操作系统选择对应版本，下载后一键安装或手动配置，获取最新的稳定版本。</p>\n      </details>\n    </div>\n    <div class=\"details\">\n      <details>\n        <summary>支持哪些设备？</summary>\n        <p class=\"answer\">支持Windows、Mac、Android、iOS、Linux等多种主流设备，客户端兼容性强，同时在线数量依套餐而定。</p>\n      </details>\n    </div>\n    <div class=\"details\">\n      <details>\n        <summary>流媒体解锁效果如何？</summary>\n        <p class=\"answer\">旗舰版及以上套餐提供全节点原生解锁支持Netflix、YouTube等主流平台，基础版支持部分内容解锁。</p>\n      </details>\n    </div>\n    <div class=\"details\">\n      <details>\n        <summary>节点速度和稳定性？</summary>\n        <p class=\"answer\">我们优化IPLC专线，提供高速节点池，游戏加速优化确保低延迟连接，7x24工单支持保障使用顺畅。</p>\n      </details>\n    </div>\n  </section>\n  <section>\n    <h2>客户端下载</h2>\n    <p>立即访问我们的官网下载中心，获取专属的机场VPN客户端。所有版本均经过安全加密，助您畅享稳定加速体验。</p>\n    <a href=\"#\" class=\"cta\">立即下载</a>\n  </section>\n  <div class=\"footer\">\n    <p>友情链接：优质合作伙伴站点</p>\n    <p>© 机场推荐 2024 所有权利保留 | 官网下载与订阅服务</p>\n  </div>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "8c5092a2513cf4cafb7e210e95fe06491a6652bf59e198a500011dcd7ab139e5",
+          "seo": {
+            "title": "机场推荐 | 机场VPN梯子加速器 客户端下载 官网",
+            "keywords": "机场推荐,机场VPN,梯子加速器,客户端下载,官网",
+            "description": "机场推荐为您提供优质的机场VPN加速器服务，包括客户端下载和官网，支持多种套餐选择，让您轻松享受高速网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xbnxi.cn",
+    "host": "p-4be25dd7d1.xbnxi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "05be85809d48965669a2573f17b1409152c46ed05c75914edbb1cbfb3167ffb2",
+    "sitemap.xml": "d64cd79953c2758641396871991f0b808a8100642c9df15f138cb52008a52ab6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9d9174ca25956a7bd01cf79653617e26e93ebdef29d96761ec92796e3d6f82b7",
+    "robots.txt": "8775a5f49925002dfaa7b5add31d2ef1d1cb2cba34e894b42f726c2a91ad8d20",
+    "dd9d3fb515881c00afcf9a9fd9dbab98.txt": "b3468d2b8fa751435d3846667eca8923173aa0136be7b5acff974d7aeb2e2979"
+  },
+  "revision": "6abe9f4cf33e1491abb7202f773213e55088cd156dd65af158baba5b081b0d6e"
+}
